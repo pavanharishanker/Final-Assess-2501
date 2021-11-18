@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/1/01/01/the-fertility-rate/</loc>
+  </url><url>
+    <loc>/1/01/01/the-death-rate/</loc>
+  </url><url>
+    <loc>/1/01/01/the-nsw-population/</loc>
+  </url><url>
+    <loc>/about/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/tags/plot/</loc>
+  </url><url>
+    <loc>/post/</loc>
+  </url><url>
+    <loc>/categories/r/</loc>
+  </url><url>
+    <loc>/tags/r-markdown/</loc>
+  </url><url>
+    <loc>/tags/regression/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url><url>
+    <loc>/1/01/01/the-ageing-population-crisis/</loc>
+  </url>
+</urlset>

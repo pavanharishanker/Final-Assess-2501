@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on NSW Population Demographics</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on NSW Population Demographics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Fertility Rate</title>
+      <link>/1/01/01/the-fertility-rate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/the-fertility-rate/</guid>
+      <description>A Gradually Declining Fertility RateExploring the Health Stats NSW data for the Total Fertility Rate [TFR] over the period of 2001 to 2019. We can see from the below plot, that whilst there was indeed a increase in the TFR during the 2005-2012 period. There has been significant decline in the Total Fertiltiy Rate in NSW from 2015 onwards. With a TFR of only 1.</description>
+    </item>
+    
+    <item>
+      <title>The Death Rate</title>
+      <link>/1/01/01/the-death-rate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/the-death-rate/</guid>
+      <description>A Growing Number Of Deaths?At first glance of the data, for the period of 1980-2018, there has been a rise in total deaths from all causes in the NSW Region. Where, over-time in the scatter plot below, there is a clear increasing trend in the total numbers of deaths relative to time.
+And Yet A Declining Death RateIndeed, whilst interpretation of the first data visualization may communicate that the total death may be rising.</description>
+    </item>
+    
+    <item>
+      <title>The NSW Population</title>
+      <link>/1/01/01/the-nsw-population/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/the-nsw-population/</guid>
+      <description>The Growing Total PopulationExamining the first line plot “Total Population Growth”, we can clearly note a substantial increase in the total population for NSW. Serving as the key driver of the growing total death values explored in The Death Rate.
+Furthermore, the notion of an ageing population, is reiterated in the second lineplot, displaying significant growth of the 85+ age population proportion within NSW, with expected further rises from 2020 onwards.</description>
+    </item>
+    
+  </channel>
+</rss>
